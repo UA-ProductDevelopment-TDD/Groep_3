@@ -39,12 +39,12 @@
 #define NOTE_AS5 932
 #define NOTE_B5  988
 
-#define actieKnop 3
-#define PIN 7
-#define buzzerPin 2
+#define actieKnop 3 //button that activates the animation
+#define PIN 7 //a led strip with 10 leds should be connected to this pin
+#define buzzerPin 2 //a buzzer needs to be connected to pin 2
 
-Servo WielL;  // = D3
-Servo WielR;  // = D8
+Servo WielL;  // connect left servo to D4
+Servo WielR;  // connect right servo to D8
 
 Adafruit_NeoPixel pixels(10, PIN, NEO_GRB + NEO_KHZ800);
 
