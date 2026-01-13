@@ -1,6 +1,8 @@
 This project explains how you can transform a Bittle to a Bumblebee transformer.
 
 <img width="278" height="305" alt="image" src="https://github.com/user-attachments/assets/e96e8863-0571-474b-8d78-460558ad8c35" />
+<img width="337" height="240" alt="image" src="https://github.com/user-attachments/assets/00a8004b-55b7-417e-ab83-fd946f8ed8d0" />
+
 
 
 This project contains different folders for the code, hardware and concept for a UI interface to control the transformer.
